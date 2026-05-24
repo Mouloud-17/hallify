@@ -1,0 +1,5 @@
+{
+  "name": "Hallify - Wedding & Ceremony Venue Booking",
+  "description": "An interactive prototype for a web application to book wedding and ceremony halls. Users can browse venues, book time slots, and simulate payments through various online wallets. The app features role-based dashboards for users, hall administrators, and general administrators.",
+  "requestFramePermissions": []
+}
